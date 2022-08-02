@@ -54,4 +54,5 @@ int main(){
     root=insert(root,11);
     sumReplace(root);
     inorder(root);
+    return 0;
 }
