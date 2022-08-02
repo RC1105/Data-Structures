@@ -81,7 +81,6 @@ class Trie{
 int main(){
     Trie *t= new Trie();
     t->insertWord("raghav");
-    
     int ans=t->searchWord("raghav");
     if(ans){
         cout<<"Word found in trie"<<endl;
