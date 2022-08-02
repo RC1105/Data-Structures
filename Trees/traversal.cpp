@@ -64,4 +64,5 @@ int main(){
     cout<<"Postorder Traversal: ";
     postorder(root);
     cout<<endl;
+    return 0;
 }
