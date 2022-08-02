@@ -21,5 +21,5 @@ int main(){
     int n=5;
     int arr[MAX]={10,4,3,2,4};
     insert(arr,n,7);
-    
+    return 0;
 }
