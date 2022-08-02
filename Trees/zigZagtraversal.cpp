@@ -80,5 +80,5 @@ int main(){
     inorder(root);
     cout<<endl;
     zigZag(root);
-   
+    return 0;  
 }
