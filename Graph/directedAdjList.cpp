@@ -24,4 +24,5 @@ int main(){
         cout<<"END";
         cout<<endl;
     }
+    return 0;
 }
