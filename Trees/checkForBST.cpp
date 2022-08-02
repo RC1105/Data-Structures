@@ -62,5 +62,5 @@ int main(){
     inorder(root);
     cout<<endl;
     cout<<isBST(root,NULL,NULL);
-   
+   return 0;
 }
