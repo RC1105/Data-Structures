@@ -39,4 +39,5 @@ int main(){
     root=insert(root,10);
     root=insert(root,11);
     cout<<no(root)<<endl;
+    return 0;
 }
