@@ -1,7 +1,9 @@
 #include "bits/stdc++.h"
 using namespace std;
+
 vector<int> adjList[1000];
 vector<bool> vis(10000,false);
+
 void dfs(int i){
     vis[i]=true;
     cout<<i<<"-> ";
