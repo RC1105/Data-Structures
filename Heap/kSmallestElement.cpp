@@ -17,4 +17,5 @@ int kSmallestElement(int arr[], int l , int r, int k){
 int main(){
     int arr[6]={7,4,0,6,8,5};
     cout<<kSmallestElement(arr,0,6,4);
+    return 0;
 }
