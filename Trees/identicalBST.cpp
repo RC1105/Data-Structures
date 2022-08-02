@@ -82,5 +82,5 @@ int main(){
     root2=insert(root2,8);
     root2=insert(root2,6);
     cout<<isIdentical(root,root2);
-   
+   return 0;
 }
