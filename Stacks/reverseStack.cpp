@@ -32,4 +32,5 @@ int main(){
     st.push(6);
     reverseSt(st);
     cout<<st.top();
+    return 0;
 }
