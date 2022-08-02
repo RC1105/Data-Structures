@@ -42,5 +42,4 @@ int main(){
     vector<int> ques={4,12,5,3,1,2,5,3,1,2,4,6};
     nexxGreater(ques);
     return 0;
-    
 }
