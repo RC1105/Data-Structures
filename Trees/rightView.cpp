@@ -58,4 +58,5 @@ int main(){
     root=insert(root,11);
     
     RV(root);
+    return 0;
 }
