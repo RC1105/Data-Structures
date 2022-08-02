@@ -22,4 +22,5 @@ int main(){
     st.push(6);
     insertEnd(st,7);
     cout<<st.size();
+    return 0;
 }
