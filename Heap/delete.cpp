@@ -27,4 +27,5 @@ int main(){
     int n=5;
     int arr[MAX]={10,4,3,2,4};
     deleteR(arr,n);
+    return 0;
 }
