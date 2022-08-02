@@ -69,4 +69,5 @@ int main(){
     string ans="";
     t->lcp("raghav",ans);
     cout<<ans;
+    return 0;
 }
