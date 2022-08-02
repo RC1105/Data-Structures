@@ -46,5 +46,5 @@ int main(){
     Trie *t= new Trie();
     t->insertWord("raghav");
     cout<<"Inserted";
-    
+    return 0;
 }
