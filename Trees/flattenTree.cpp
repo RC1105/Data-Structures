@@ -63,4 +63,5 @@ int main(){
     cout<<endl;
     flatten(root);
     inorder(root);
+    return 0;
 }
