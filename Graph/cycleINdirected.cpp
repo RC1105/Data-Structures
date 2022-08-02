@@ -42,4 +42,5 @@ int main(){
     else{
         cout<<"No cycle Present";
     }
+    return 0;
 }
