@@ -44,4 +44,5 @@ int main(){
     root=insert(root,10);
     root=insert(root,11);
     cout<<dia(root)<<endl;
+    return 0;
 }
