@@ -77,4 +77,5 @@ int main(){
     cout<<endl;
     Node* rr=del(root,5);
     inorder(rr);
+    return 0;
 }
