@@ -23,4 +23,5 @@ string longestCommonPrefix(vector<string> vec){
 int main(){
     vector<string> vec={"coding","codingjam","codingtycoons"};
     cout<<longestCommonPrefix(vec);
+    return 0;
 }
