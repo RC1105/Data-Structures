@@ -47,4 +47,5 @@ int main(){
     int n=5;
     Node* boot=constBST(preorder,&preorderIdx,preorder[0],INT_MIN, INT_MAX, n);
     order(boot);
+    return 0;
 }
