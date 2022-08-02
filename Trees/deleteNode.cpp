@@ -55,6 +55,7 @@ Node* del(Node* root, int key){
     }
     return root;
 }
+
 void inorder(struct Node* root){
     if(root==NULL){
         return;
