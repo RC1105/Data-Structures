@@ -57,6 +57,6 @@ int main(){
     root=insert(root,9);
     root=insert(root,10);
     root=insert(root,11);
-    
     Lot(root);
+    return 0;
 }
