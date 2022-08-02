@@ -71,4 +71,5 @@ int main(){
     else{
         cout<<node->data;
     }
+    return 0;
 }
