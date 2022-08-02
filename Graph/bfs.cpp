@@ -11,7 +11,6 @@ int main(){
         adjList[y].push_back(x);
         adjList[x].push_back(y);
     }
-
     queue<int> q;
     vector<bool> visited(n,false);
     q.push(0);
