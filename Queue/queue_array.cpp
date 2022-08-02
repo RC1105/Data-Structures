@@ -71,4 +71,5 @@ int main(){
     cout<<q1.peek();
     cout<<endl;
     cout<<q1.empty();
+    return 0;
 }
