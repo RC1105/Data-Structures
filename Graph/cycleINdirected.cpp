@@ -37,7 +37,7 @@ int main(){
         }
     }
     if(ans==true){
-        cout<<"CYCLE PRESENT";
+        cout<<"Cycle Present";
     }
     else{
         cout<<"No cycle Present";
