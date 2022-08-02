@@ -42,5 +42,5 @@ int main(){
     cout<<q1.pop();
     cout<<endl;
     cout<<q1.pop();
-    
+    return 0;
 }
