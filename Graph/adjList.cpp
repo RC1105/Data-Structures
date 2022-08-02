@@ -22,6 +22,5 @@ int main(){
             cout<<*itr<<"->";
         }
         cout<<"END";
-        cout<<endl;
     }
 }
