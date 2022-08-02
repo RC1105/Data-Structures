@@ -52,4 +52,5 @@ int main(){
     int inorder[]={4,2,1,5,3};
     Node* boot=constTree(postorder,inorder,0,4);
     order(boot);
+    return 0;
 }
