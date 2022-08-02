@@ -57,4 +57,5 @@ int main(){
     root=insert(root,10);
     root=insert(root,11);
     cout<<isBalanced(root)<<endl;
+    return 0;
 }
