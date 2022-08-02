@@ -60,4 +60,5 @@ int main(){
     cout<<q1.peek()<<endl;
     q1.pop();
     cout<<q1.peek()<<endl;
+    return 0;
 }
