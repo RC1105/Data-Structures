@@ -55,4 +55,5 @@ int main(){
     root=insert(root,8);
     inorder(root);
     cout<<search(root,9);
+    return 0;
 }
