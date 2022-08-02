@@ -58,7 +58,6 @@ class Trie{
         bool searchWord(string str){
             return searchUtil(root,str);
         }
-        
 
 };
 
