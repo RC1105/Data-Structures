@@ -64,4 +64,5 @@ int main(){
     root=insert(root,11);
     
     cout<<Lot(root,0);
+    return 0;
 }
