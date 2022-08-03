@@ -67,7 +67,6 @@ void inorder(struct Node* root){
     cout<<root->data<<" ";
     inorder(root->right);
 }
-
 int main(){
     struct Node* root= NULL;
     root=insert(root,5);
